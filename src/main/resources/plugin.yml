@@ -1,0 +1,5 @@
+name: SSBAdditions
+version: '${project.version}'
+main: me.tptuaasn.ssbadditions.SSBAdditions
+api-version: 1.19
+depend: [ SuperiorSkyblock2 ]
